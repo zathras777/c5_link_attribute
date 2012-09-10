@@ -5,7 +5,7 @@ class C5LinkAttributePackage extends Package {
 
     protected $pkgHandle = 'c5_link_attribute';
     protected $appVersionRequired = '5.5.1';
-    protected $pkgVersion = '0.1';
+    protected $pkgVersion = '0.2';
 
     public function getPackageDescription() 
     {
